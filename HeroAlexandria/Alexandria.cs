@@ -8,7 +8,7 @@ namespace HeroAlexandria
     public static class Alexandria
     {
         public const int LowerBound = 10;
-        public const int UpperBound = 20000;
+        public const int UpperBound = 999999999;
 
         private const double TOLERANCE = 1.0E-8;
 
